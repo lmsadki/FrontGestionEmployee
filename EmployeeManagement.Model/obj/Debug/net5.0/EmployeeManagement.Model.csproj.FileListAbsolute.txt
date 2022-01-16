@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\bin\Debug\net5.0\EmployeeManagement.Model.deps.json
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\bin\Debug\net5.0\EmployeeManagement.Model.dll
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\bin\Debug\net5.0\ref\EmployeeManagement.Model.dll
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\bin\Debug\net5.0\EmployeeManagement.Model.pdb
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.dll
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\ref\EmployeeManagement.Model.dll
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.pdb
+C:\Users\DELL\source\repos\EmployeeManagement.Web\EmployeeManagement.Model\obj\Debug\net5.0\EmployeeManagement.Model.csproj.AssemblyReference.cache
